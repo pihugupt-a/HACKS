@@ -1,0 +1,22 @@
+name	brand	category	material_1	weight_1_g	material_2	weight_2_g	microplastics	silicones	petroleum	recyclable_packaging	eco_certified	ultra_processed	high_sugar	palm_oil	animal_based
+Cetaphil Moisturising Cream	Cetaphil	Cream	HDPE	18	PP	4	0	1	1	0	0	0	0	0	0
+Aveeno Dermexa	Aveeno	Cream	HDPE	28	PP	5	0	1	1	1	0	0	0	0	0
+Mamaearth Ubtan Face Cream	MamaEarth	Cream	LDPE	18	PP	4	0	0	0	0	0	0	0	0	0
+Nivea Body Milk 600ml	Nivea	Cream	HDPE	45	PP	6	0	1	1	1	0	0	0	0	0
+Cetaphil Gentle Skin Cleanser	Cetaphil	Body Wash	HDPE	65	PP	7	0	0	0	1	0	0	0	0	0
+Soap & Glory Body Call of Fruity Body Scrup	Soap & Glory	Body Wash	PET	25	PP	5	1	0	0	0	0	0	0	0	0
+Sheerscreen Mist	Asaya	Sunscreen	Aluminum	12	PP	3	0	0	0	1	0	0	0	0	0
+Dot & Key Skincare	Dot & Key	Sunscreen	LDPE	10	PP	2	0	1	0	1	0	0	0	0	0
+Nivea Sun kids protect&care	Nivea	Sunscreen	HDPE	20	PP	5	1	0	1	1	0	0	0	0	0
+BBlunt Shampoo 7IN1 Repair and Revive Shampoo	BBlunt	Shampoo	PET	25	PP	5	0	1	1	1	0	0	0	0	0
+Coca Cola 1L	Coca-Cola	Soft Drink	PET	35	HDPE	3	0	0	0	1	0	1	1	0	0
+Masala Veg Atta Noodles Pack of 4 290g	Maggi	Instant Noodles	Plastic Film	25	Paperboard	20	0	0	0	0	0	1	0	1	0
+Doritos Sweet Chili 71g	Doritos	Chips	Plastic Film	6		0	0	0	0	0	0	1	0	0	0
+Dairy Milk 46g	Cadbury	Chocolate	Plastic Film	4	Paperboard	5	0	0	0	0	0	1	1	0	1
+Lindt Lindor Milk 200g	Lindt	Chocolate	Plastic Film	15	Paperboard	20	0	0	0	0	0	1	1	0	1
+Nutella Biscuits 166g	Ferrero	Biscuits	Plastic Film	10	Paperboard	15	0	0	0	0	0	1	1	1	1
+Haribo Goldbears Sour 198g	Haribo	Candy	Plastic Film	8		0	0	0	0	0	0	1	1	0	1
+Chupa Chups Sour Tubes Mini 61.6g	Chupa Chups	Candy	Plastic Film	5		0	0	0	0	0	0	1	1	0	0
+Ferrero Rocher 200g	Ferrero	Chocolate	Plastic Film	20	Paperboard	30	0	0	0	0	0	1	1	1	1
+Sattviko Roasted Makhana	Sattviko	Snack	Plastic Pouch	12		0	0	0	0	0	0	0	0	0	0
+Original Skittles Resealable 45g	Skittles	Candy	Plastic Pouch	6		0	0	0	0	0	0	1	1	0	0
