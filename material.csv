@@ -1,0 +1,9 @@
+material	carbon_kg_per_kg	water_L_per_kg	energy_MJ_per_kg	waste_score
+PET	4.9	60	50	4
+HDPE	5.4	50	40	4
+Aluminum	7.3	20	200	5
+Cardboard	0.8	40	15	1
+LDPE	5.5	45	35	3
+Plastic Film	5.7	55	60	5
+Paperboard	0.8	40	15	1
+Plastic Pouch	7.4	65	75	5
